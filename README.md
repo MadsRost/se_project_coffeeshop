@@ -1,6 +1,6 @@
-# Triple Peaks Coffee Shop
+# Triple Espresso Coffee Shop
 
-This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
+This is the second project for the Software Engineering program at TripleTen. It was created utilizing HTML and CSS, based on a given design brief.
 
 ## Project features
 
@@ -8,9 +8,9 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - Flexbox
 - Positioning
 - Flat BEM file structure
-- A custom form
+- A custom form for reservations
 - CSS animation and transform
 
 ## Plan on improving the project
 
-Add your ideas here :)
+Ideally I'd love to add more advanced animations to the webpage

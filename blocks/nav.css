@@ -20,6 +20,7 @@
   margin: 0;
   gap: 20px;
   list-style-type: none;
+  transition: smooth;
 }
 
 .nav__link {

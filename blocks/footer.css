@@ -51,11 +51,11 @@
   text-decoration: none;
   display: flex;
   align-items: center;
+  transition: opacity 0.3s linear;
 }
 
 .footer__social-link:hover {
   color: #c1c1c1;
-  transition: smooth;
 }
 
 .footer__social-icon {

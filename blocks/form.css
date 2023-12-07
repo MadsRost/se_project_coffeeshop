@@ -21,6 +21,7 @@
   display: flex;
   justify-content: center;
   gap: 12px;
+  margin-bottom: 0;
 }
 
 .form__input {
@@ -34,9 +35,7 @@
   font-family: "Inter", "Arial", sans-serif;
   font-size: 20px;
   line-height: 30px;
-  border-color: #838383;
-  border-width: 1px;
-  border-style: double;
+  border: 1px solid #838383;
 }
 
 .form__input::placeholder {
@@ -56,11 +55,11 @@
   background-color: #2f80ed;
   color: #fff;
   border: initial;
+  transition: opacity 0.3s linear;
 }
 
 .form__button:hover {
   opacity: 70%;
-  transition: smooth;
 }
 
 .form__checkbox {

@@ -55,7 +55,6 @@
 
 .about__circle_animation_blurred {
   animation: pulsate 1.3s ease-in-out infinite;
-  transform: scale(1.2);
 }
 
 .about__paragraph {
